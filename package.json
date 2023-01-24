@@ -1,0 +1,25 @@
+{
+  "name": "natures",
+  "version": "1.0.0",
+  "description": "learn node mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoshinogami/natures.git"
+  },
+  "author": "hoshinogami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoshinogami/natures/issues"
+  },
+  "homepage": "https://github.com/hoshinogami/natures#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.18.2",
+    "mongoose": "^5.13.15",
+    "morgan": "^1.10.0"
+  }
+}
